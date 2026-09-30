@@ -71,9 +71,6 @@ export default function ContactSection() {
             <h2 className="font-headline text-3xl md:text-5xl font-extrabold text-primary tracking-tight">
               Let's connect.
             </h2>
-            <p className="font-sans text-base text-on-surface-variant max-w-md leading-relaxed">
-              Currently open to engineering opportunities in the U.S. (San Francisco Bay Area, Austin TX, New York, Seattle or Portland).
-            </p>
           </div>
 
           <div className="space-y-6 pt-4">
